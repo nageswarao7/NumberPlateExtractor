@@ -1,0 +1,6 @@
+train: C:/Users/Administrator/Documents/Automatic-Number-Plate-Recognition--ANPR-/train/images
+val: C:/Users/Administrator/Documents/Automatic-Number-Plate-Recognition--ANPR-/valid/images
+test: C:/Users/Administrator/Documents/Automatic-Number-Plate-Recognition--ANPR-/test/images
+
+nc: 1
+names: ['licence']
